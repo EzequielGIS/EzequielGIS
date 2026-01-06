@@ -1,5 +1,10 @@
 ## Hi there!
 
+## GIS Developer focused on geospatial analysis and automation.
+Working with Python, GIS, and spatial databases to build efficient geoprocessing solutions.
+Experience with QGIS, ArcGIS, PostGIS, PyQGIS, and ArcPy.
+Interested in WebGIS, workflow automation, and spatial data engineering.
+
 [![My Skills](https://skillicons.dev/icons?i=py,github,postgres)](https://skillicons.dev)
 
 ##
