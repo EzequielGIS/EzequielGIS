@@ -1,6 +1,6 @@
 ## Olá!
 
-## Analista GIS focado em análise geoespacial e automação..
+## Analista GIS focado em análise geoespacial e automação.
 Trabalho com Python, GIS e bancos de dados espaciais para criar soluções eficientes de geoprocessamento.
 Projetos com ArcGIS, Qgis, ArcPy, PyQGIS, PostGIS, GEE e JavaScript.
 Interessado em GIS Developer e GeoIA, automação de fluxos de trabalho e engenharia de dados espaciais.
