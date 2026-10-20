@@ -5,7 +5,7 @@ Trabalho com GIS, Python e Geoprocessamento para criar soluções eficientes de 
 Projetos com ArcGIS, Qgis, ArcPy, PyQGIS, PostGIS, GEE e JavaScript.
 Interessado em GIS Developer e GeoIA, automação de fluxos de trabalho e engenharia de dados espaciais.
 
-[![My Skills](https://skillicons.dev/icons?i=py,github,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,postgres)](https://skillicons.dev)![Logo da Esri](https://raw.githubusercontent.com/Esri/awesome-arcgis-developers/master/esri-logo.png)
 
 ##
 
