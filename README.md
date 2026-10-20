@@ -7,9 +7,8 @@ Interessado em GIS Developer e GeoIA, automação de fluxos de trabalho e engenh
 
 <p>
   <img src="https://skillicons.dev/icons?i=py" alt="Python" height="32">&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="32">&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="32">&nbsp;
-  <img src="https://raw.githubusercontent.com/Esri/awesome-arcgis-developers/master/esri-logo.png" alt="Esri / ArcGIS" height="32">
+  <img src="https://raw.githubusercontent.com/Esri/awesome-arcgis-developers/master/esri-logo.png" alt="Esri" height="32">&nbsp;
+  <img src="https://raw.githubusercontent.com/Esri/awesome-arcgis-developers/master/arcgis-platform-logo.svg" alt="ArcGIS Pro" height="32">
 </p>
 
 ##
