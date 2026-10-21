@@ -7,6 +7,7 @@ Interessado em GIS Developer e GeoIA, automação de fluxos de trabalho e engenh
 
 <p>
   <img src="https://raw.githubusercontent.com/Esri/awesome-arcgis-developers/master/esri-logo.png" alt="Esri" height="32">&nbsp;
+  <img src="https://raw.githubusercontent.com/EzequielGIS/EzequielGIS/main/GEE.png" alt="Google Earth Engine" height="32">
 </p>
 
 ##
