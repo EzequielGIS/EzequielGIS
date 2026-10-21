@@ -8,6 +8,7 @@ Interessado em GIS Developer e GeoIA, automação de fluxos de trabalho e engenh
 <p>
   <img src="https://raw.githubusercontent.com/Esri/awesome-arcgis-developers/master/esri-logo.png" alt="Esri" height="32">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Earth Engine" height="32">
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=flat&logo=google&logoColor=white" alt="Google Earth Engine" height="32">
 </p>
 
 ##
