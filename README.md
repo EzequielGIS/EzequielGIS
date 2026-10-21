@@ -6,7 +6,8 @@ Projetos com ArcGIS, Qgis, ArcPy, PyQGIS, PostGIS, GEE e JavaScript.
 Interessado em GIS Developer e GeoIA, automação de fluxos de trabalho e engenharia de dados espaciais.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" height="32">&nbsp;
+  <img src="https://raw.githubusercontent.com/Esri/awesome-arcgis-developers/master/esri-logo.png" alt="Esri" height="32">&nbsp;
+  <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat&logo=googleearth&logoColor=white" alt="Google Earth Engine" height="32">
 </p>
 
 ##
